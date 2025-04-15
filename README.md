@@ -1,5 +1,5 @@
 # Hi there, I'm Emre Can Uzun 👋  
-### **Full Stack Developer** | **Open Source Enthusiast**  
+### **Full Stack Developer**  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   
