@@ -3,7 +3,8 @@
 
 <div align="center" style="margin: 20px 0;">
 
-## 🚀 Teknoloji Stack'im
+## 🚀 Technologies I use while developing web applications:
+
   
 <!-- Büyük boyutlu logolar (width=80 height=80) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80" style="margin: 0 15px;"/>
